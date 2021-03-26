@@ -1,0 +1,11 @@
+{
+    "name": "routing-interop/universal",
+    "description": "Universal factory for routing interop",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keven",
+            "email": "hello@keven.fr"
+        }
+    ]
+}
